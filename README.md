@@ -7,7 +7,8 @@ Each technique will be on its own app with a detailed explanation documented on 
 
 ## Demos
 
-|  Circles |
-|--|--|
-|This project demonstrates an animated interface using SwiftUI. The code generates a set of rotating, scaling, and offset moving circles to create a captivating animation effect.  |  DEMO GIF|
+
+| Circles  |  |
+| ------------- | ------------- |
+| This project demonstrates an animated interface using SwiftUI. The code generates a set of rotating, scaling, and offset moving circles to create a captivating animation effect.   |  DEMO GIF |
 
