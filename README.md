@@ -3,7 +3,7 @@ Welcome to the SwiftUI Animation Examples repository! This is a collection of va
 
 ## How does this repo work?
 
-Each technique will be on its own app with a detailed explanation documented on code.
+Each technique will be on its own app with a detailed explanation documented on code. Not all of the content find here had been made by myself. Some of then could be part of some sort of tutorial. However the source will not be mentioned because even if the idea come from external sources the code itself has my own notes and style. **Main goal**: to learn and practice as much as I can ;P
 
 ## Demos
 
