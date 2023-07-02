@@ -33,6 +33,7 @@ struct ExpandingView: View {
             .offset(x: isExapaded ? direction.offsets.0 : 0, y: isExapaded ? direction.offsets.1 : 0)
             .rotationEffect(isExapaded ? .degrees(43) :.degrees(0))
             .animation(Animation.easeInOut(duration: 0.25).delay(0.05), value: isExapaded)
+            .background(Color.red)
         }
         .offset(x: direction.containerOffset.0, y: direction.containerOffset.1)
         
@@ -41,6 +42,6 @@ struct ExpandingView: View {
 
 struct ExpandingView_Previews: PreviewProvider {
     static var previews: some View {
-        ExpandingView(isExapaded: .constant(true), direction: .top, symbolName: "doc.fill")
+        ExpandingView(isExapaded: .constant(true), direction: .bottom, symbolName: "doc.fill")
     }
 }
