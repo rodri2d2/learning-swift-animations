@@ -47,8 +47,8 @@ Each technique will be on its own app with a detailed explanation documented on 
         <th colspan="2"><h3>AppleTv like animation</h3></th>
     </tr>
     <tr>
-        <td><img src="https://github.com/rodri2d2/learning-swift-animations/blob/main/DEMOS/CustomComponent.gif" width="150" height="300" /></td>
+        <td><img src="https://github.com/rodri2d2/learning-swift-animations/blob/main/DEMOS/AppleTVLikeAnimetion.gif" width="150" height="300" /></td>
         <td style="text-align:center;">
-             <a href="https://github.com/rodri2d2/learning-swift-animations/tree/main/CustomComponent">AppleTv like animation</a> demonstrates how to use rotation3DEffect, by using a simple rotation and simulating Apple's TV animation when hover an item.
+             <a href="https://github.com/rodri2d2/learning-swift-animations/tree/main/AppleTVLikeAnimation">AppleTv like animation</a> demonstrates how to use rotation3DEffect, by using a simple rotation and simulating Apple's TV animation when hover an item.
     </tr>
 </table>
